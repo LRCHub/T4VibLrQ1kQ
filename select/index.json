@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "guilty",
+  "base_artist": "Albemuth",
+  "createdAt": "2026-02-27T09:39:35.558162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Guilty",
+      "artist": "Courtney Marie Andrews",
+      "has_synced": true,
+      "path": "select/01_Guilty_Courtney_Marie_Andrews.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Guilty",
+      "artist": "Yann Tiersen",
+      "has_synced": true,
+      "path": "select/02_Guilty_Yann_Tiersen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Guilty",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/03_Guilty_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guilty Conscience",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/04_Guilty_Conscience_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Guilty Conscience",
+      "artist": "Eminem feat. Dr. Dre",
+      "has_synced": true,
+      "path": "select/05_Guilty_Conscience_Eminem_feat._Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Guilty Conscience (Ft. Dr. Dre",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/06_Guilty_Conscience_(Ft._Dr._Dre_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guilty",
+      "artist": "Zach Miller",
+      "has_synced": false,
+      "path": "select/07_Guilty_Zach_Miller.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Plead Guilty",
+      "artist": "Luniz",
+      "has_synced": true,
+      "path": "select/08_Plead_Guilty_Luniz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Guilty",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/09_Guilty_Mike_Oldfield.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Guilty of Being White",
+      "artist": "Minor Threat",
+      "has_synced": true,
+      "path": "select/10_Guilty_of_Being_White_Minor_Threat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Guilty Rocks",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/11_Guilty_Rocks_múm.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Guilty of Love",
+      "artist": "Mylo",
+      "has_synced": false,
+      "path": "select/12_Guilty_of_Love_Mylo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I've Changed My Plea to Guilty",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/13_I've_Changed_My_Plea_to_Guilty_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I've Changed My Plea To Guilty (US Version)",
+      "artist": "Morrissey",
+      "has_synced": false,
+      "path": "select/14_I've_Changed_My_Plea_To_Guilty_(US_Version)_Morrissey.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Guilty Partner",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/15_Guilty_Partner_New_Order.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "guilty",
+      "artist": "Albemuth, 存流, 明透",
+      "has_synced": false,
+      "path": "select/pl_01_guilty_Albemuth,_存流,_明透.txt"
+    }
+  ]
+}
